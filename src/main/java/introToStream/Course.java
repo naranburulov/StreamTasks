@@ -1,4 +1,4 @@
-package IntroToStream;
+package introToStream;
 
 public class Course {
 

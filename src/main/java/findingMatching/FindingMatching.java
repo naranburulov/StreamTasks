@@ -1,4 +1,4 @@
-package FindingMatching;
+package findingMatching;
 
 import dishTask.Dish;
 import dishTask.DishData;

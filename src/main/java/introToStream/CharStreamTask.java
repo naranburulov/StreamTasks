@@ -1,4 +1,4 @@
-package IntroToStream;
+package introToStream;
 
 import java.util.Arrays;
 import java.util.List;
